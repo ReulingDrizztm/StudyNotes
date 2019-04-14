@@ -1,0 +1,2 @@
+Django官网文档（中文）：https://docs.djangoproject.com/zh-hans/2.2/
+BeautifulSoup官网文档：https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html
