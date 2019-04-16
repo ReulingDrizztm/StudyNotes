@@ -25,9 +25,8 @@ service mysqld restart
 ### 1、更改加密方式
 ```text
 sudo vim /etc/my.cnf
-```
+
 # 将此行的注释打开
-```text
 default-authentication-plugin=mysql_native_password
 ```
 ### 2、找到默认密码
